@@ -1,7 +1,10 @@
 [application]
-
-# App (Project) Name
 name = "calculator"
+
+[bundle]
+identifier = "com.tatar"
+publisher = "Tatar"
+icon = ["assets/icon.png"]
 
 [web.app]
 
