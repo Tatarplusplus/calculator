@@ -1,5 +1,7 @@
 ### About project
-This project is GUI calculator.
+This is GUI calculator.
+### Dependencies
+Download [Rust](https://www.rust-lang.org/) and [Dioxus](https://dioxuslabs.com/learn/0.6/getting_started/#)
 ### Serving Your App
 Run the following command in the root of your project to start developing with the default platform:
 
