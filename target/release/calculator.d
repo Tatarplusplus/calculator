@@ -1,1 +1,0 @@
-/home/tatar/Rust/calculator/target/release/calculator: /home/tatar/Rust/calculator/src/components/input.rs /home/tatar/Rust/calculator/src/components/keys.rs /home/tatar/Rust/calculator/src/components/mod.rs /home/tatar/Rust/calculator/src/main.rs /home/tatar/Rust/calculator/src/parsing.rs
