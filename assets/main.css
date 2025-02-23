@@ -1,0 +1,34 @@
+/* App-wide styling */
+body {
+    background-color: white;
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 250px;
+}
+
+.calculator-numbers-keys {
+    font-size: 28px;
+    background-color: #9370db;
+    padding: 50px;
+}
+
+.calculator-keys {
+    font-size: 28px;
+    background-color: #f08080;
+    padding: 50px;
+}
+
+#input-log {
+    position: relative;
+    left: 75px;;
+    padding: 16px;
+    background-color:  white;
+}
+
+#welcome {
+    color: #8b008b;
+    font-size: xx-large;
+    margin: 100px 450px;
+}
+
+
