@@ -4,7 +4,11 @@ name = "calculator"
 [bundle]
 identifier = "com.tatar"
 publisher = "Tatar"
-icon = ["assets/icon.png"]
+icon = [
+  "assets/icon_resized_67bb655f65d46.png",
+  "assets/icon.ico",
+  "assets/icon.icns",
+]
 
 [web.app]
 
