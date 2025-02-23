@@ -1,5 +1,5 @@
 ### About project
-This is GUI calculator.
+GUI calculator in Rust, Dioxus.
 ### Dependencies
 Download [Rust](https://www.rust-lang.org/) and [Dioxus](https://dioxuslabs.com/learn/0.6/getting_started/#)
 ### Serving Your App
