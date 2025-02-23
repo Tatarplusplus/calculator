@@ -1,0 +1,11 @@
+/home/tatar/Rust/calculator/target/release/deps/libordered_stream-b15f35c0538f4370.rmeta: /home/tatar/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ordered-stream-0.2.0/src/lib.rs /home/tatar/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ordered-stream-0.2.0/src/adapters.rs /home/tatar/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ordered-stream-0.2.0/src/join.rs /home/tatar/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ordered-stream-0.2.0/src/multi.rs /home/tatar/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ordered-stream-0.2.0/src/../README.md
+
+/home/tatar/Rust/calculator/target/release/deps/libordered_stream-b15f35c0538f4370.rlib: /home/tatar/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ordered-stream-0.2.0/src/lib.rs /home/tatar/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ordered-stream-0.2.0/src/adapters.rs /home/tatar/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ordered-stream-0.2.0/src/join.rs /home/tatar/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ordered-stream-0.2.0/src/multi.rs /home/tatar/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ordered-stream-0.2.0/src/../README.md
+
+/home/tatar/Rust/calculator/target/release/deps/ordered_stream-b15f35c0538f4370.d: /home/tatar/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ordered-stream-0.2.0/src/lib.rs /home/tatar/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ordered-stream-0.2.0/src/adapters.rs /home/tatar/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ordered-stream-0.2.0/src/join.rs /home/tatar/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ordered-stream-0.2.0/src/multi.rs /home/tatar/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ordered-stream-0.2.0/src/../README.md
+
+/home/tatar/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ordered-stream-0.2.0/src/lib.rs:
+/home/tatar/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ordered-stream-0.2.0/src/adapters.rs:
+/home/tatar/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ordered-stream-0.2.0/src/join.rs:
+/home/tatar/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ordered-stream-0.2.0/src/multi.rs:
+/home/tatar/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ordered-stream-0.2.0/src/../README.md:
